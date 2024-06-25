@@ -6,14 +6,14 @@ Clipboard landing page from my Tailwind course and from [Frontend Mentor Challen
 
 Install dependencies
 
-```
+
 npm Install
-```
+
 
 Run Tailwind CLI
 
-```
+
 npm run watch
-```
+
 
 ![Alt text](images/clipboard.png)
